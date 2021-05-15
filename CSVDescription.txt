@@ -1,0 +1,2 @@
+loan_data_labeled.csv is for training model
+loan_data_new.csv is the file we use for predicting( which uploaded in the unlabel trigger bucket)
